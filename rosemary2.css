@@ -1,0 +1,51 @@
+h1{
+  color:#DFC9FD; font-size:34px;}
+
+  #bio{
+    font-size: 1em;
+    line-height: 1.25em;
+    font-style: italic;
+    color: #C9DBFD;
+  }
+  #bio{
+    display: block;
+    margin-left: 45px;
+    margin-bottom: 45px;
+    background-color: #FFF5B9;
+    width: 355px;
+    height: 205px;
+  }
+
+  body{
+    background-color: #FEAE9D;
+}
+h3{
+  color:#BB98EC; font-size:22px;}
+#dog{
+  font-size:1em;
+  line-height: 1.25em;
+  color: #BB98EC;
+}
+#like{
+  font-size:1em;
+  line-height: 1.25em;
+  color: #BB98EC;
+  display: block;
+  margin-left: 45px;
+  margin-bottom: 45px;
+  background-color: #FFF5B9;
+  width: 355px;
+  height: 130px;
+}
+#fav{
+  font-size:1em;
+  line-height: 1.25em;
+  color: #BB98EC;
+  display: block;
+  margin-left: 45px;
+  margin-bottom: 45px;
+  background-color: #FFF5B9;
+  width: 355px;
+  height: 130px;
+}
+ 
